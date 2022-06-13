@@ -13,7 +13,7 @@
 * [Menú horizontal en SUITCSS con REACTJS](https://youtu.be/bS2UJmROxCE)
 
 ## 📕 DESCARGA el PDF
-* [XXXX](XXXX)
+* [Descarga aquí el PDF](https://github.com/eduardofierropro/eduardofierropro-Como-crear-un-menu-hamburguesa-horizontal/blob/main/Módulos%20de%20web.pdf)
 
 ## Autor ✒️
 
