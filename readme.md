@@ -17,7 +17,7 @@ Podrás encontrarte el mismo menú en proyectos y lenguajes diferentes en la tab
 >
 > No lo uses en tu propio portfolio sino como referencia o práctica
 
-## 🔴 Vídeos y repositorios de otras programaciones
+## Todas las versiones disponibles
 
 | Nombre | Youtube | Estructura | Estilo | Script | Metodología |
 |--|--|--|--|--|--|
